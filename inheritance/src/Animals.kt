@@ -29,7 +29,7 @@ open  class Animal{ //To use a class as a superclass, it must be declared as ope
 //To make a class inherit from another, you add a colon (:) to the class header
 //followed by the name of the superclass.
 
-class Hippo : Animal(){
+class Hippo : Animal(){ //inheritance
     override val image="hippopic"
     override val food="grass"
     override val habitat="water"
@@ -44,7 +44,7 @@ class Hippo : Animal(){
     }
 }
 
-  open class Canine:Animal() {
+  open class Canine:Animal() { //inheritance
 
     override fun roam() {
         println("the canine is roaming")
@@ -52,7 +52,7 @@ class Hippo : Animal(){
 
 }
 
-    class Wolf:Canine(){
+    class Wolf:Canine(){ //inheritance
         override val image="wolf"
         override val food="meat"
         override val habitat="forests"
@@ -64,6 +64,7 @@ class Hippo : Animal(){
         override fun eat(){
             println("the wolf eats $food")
         }
+
     }
 
 
@@ -74,15 +75,15 @@ class Vet{
 }
 
 fun main(args:Array<String>){
-    val animals= arrayOf(Hippo(),Wolf())
-    for(item in animals){
+    val animals= arrayOf(Hippo(),Wolf()) //create an array of different Animal objects
+    for(item in animals){ //Each Animal in the array responds in its own way
         item.roam()
         item.eat()
     }
        val vet = Vet()
        val wolf = Wolf()
        val hippo=Hippo()
-       vet.giveShot(wolf) //impelemnting polymorphism
+       vet.giveShot(wolf) //impelementing polymorphism
        vet.giveShot(hippo) //polymorphism
 
 
