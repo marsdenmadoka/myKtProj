@@ -62,21 +62,23 @@ class Vet{
         animal.makeNoise()
     }
 }
- class Vehicle : Roamable{
+ class Vehicle : Roamable{ //implements from an interface
      override fun roam() { //this from our interface
          println("the vehicle is roaming")
      }
  }
 
 fun main(args:Array<String>){
-    val animals= arrayOf(Hippo(),Wolf(),Vehicle())
+    val animals= arrayOf(Hippo(),Wolf(),Vehicle()) //polymorphic arrays
     for (item in animals){
         item.roam()
+      // item.eat() //uncomment this and sees what happens when you remove the Vehicle from our Array and when its there..note the working
         if (item is Animal){ //understand this line well, since we included in oour arrray above a class that inherited from our interfce
             item.eat()   //and not our super class..we must use this to tell where eat function came from our supper class
                         //roam is taken from our interface and is everyone hence no need of if stateme..refer page 313-316
         }
     }
+
 val vet = Vet()
 val wolf=Wolf()
 val hippo=Hippo()
