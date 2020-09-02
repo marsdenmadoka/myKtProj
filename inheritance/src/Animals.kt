@@ -61,6 +61,8 @@ class Hippo : Animal(){ //inheritance
           println("Hoooowww")
         }
 
+
+
         override fun eat(){
             println("the wolf eats $food")
         }
