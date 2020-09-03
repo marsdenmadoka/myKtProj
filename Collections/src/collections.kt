@@ -22,6 +22,35 @@
 //the Set ignores the duplicate values set are unordered
 //A Set’s values are unordered, so unlike a List, there’s no get function you can
 //use to get the value at a specified index
+//fun main(args:Array<String>){
+//    var mShopingList= mutableListOf("Tea","Eggs","Milk")
+//    println("mShopping original: $mShopingList")
+//    val extraShopping = listOf("Cookies","sugar","Eggs")
+//    mShopingList.addAll(extraShopping)
+//    println("mShoppingList items added: $mShopingList")
+//    if(mShopingList.contains("Tea")){
+//        mShopingList.set(mShopingList.indexOf("Tea"),"Coffee")
+//    }
+//    mShopingList.sort()
+//    println("mShopping list sorted $mShopingList")
+//    mShopingList.reverse()
+//    println("mShoppingList reversed $mShopingList")
+//
+//    val mShoppingSet=mShopingList.toMutableSet() //copying our list into a set
+//    println("Mshopping set : $mShoppingSet")
+//    val moreShopping= setOf("Chives","Spinach","Milk")
+//    mShoppingSet.addAll(moreShopping)
+//    println("mShoppingSet items added: $mShoppingSet")
+//    mShopingList=mShoppingSet.toMutableList()
+//    println("mShoppingList new version: $mShopingList")
+//
+//}
+
+
+//mapOf
+//You can copy a Map or MutableMap into a new List object containing all the
+//key/value pairs using toList like this:
+data class Recipe(var name:String) //add the recipe data class
 fun main(args:Array<String>){
     var mShopingList= mutableListOf("Tea","Eggs","Milk")
     println("mShopping original: $mShopingList")
@@ -43,9 +72,19 @@ fun main(args:Array<String>){
     println("mShoppingSet items added: $mShoppingSet")
     mShopingList=mShoppingSet.toMutableList()
     println("mShoppingList new version: $mShopingList")
-
-
+    //set
+    val r1=Recipe("Chicken Soup")
+    val r2=Recipe("Quinoa Salad")
+    val r3=Recipe("Thai Curry")
+    val r4=Recipe("Jambalaya")
+    var r5=Recipe("Sausage Rolls")
+    val mRecipeMap= mutableMapOf("Recipe1" to r1,"Recipe2" to r2,"Recipe3" to r3)
+     println("mRecipeMap original: $mRecipeMap")
+    val recipesToAdd= mapOf("Recipe4" to r4,"Recipe5" to r5)
+    mRecipeMap.putAll(recipesToAdd)
+    println("mRecipeMap updated: $mRecipeMap")
+     if (mRecipeMap.containsKey("Recipe1")){
+         println("Recipe1 is: ${mRecipeMap.getValue("Recipe1")}")
+     }
 }
 
-
-//mapOf
