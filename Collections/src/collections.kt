@@ -52,7 +52,7 @@
 //key/value pairs using toList like this:
 data class Recipe(var name:String) //add the recipe data class
 fun main(args:Array<String>){
-    //set
+    //map
     val r1=Recipe("Chicken Soup")
     val r2=Recipe("Quinoa Salad")
     val r3=Recipe("Thai Curry")
