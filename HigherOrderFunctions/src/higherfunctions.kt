@@ -9,8 +9,7 @@
 //                      Grocery("Mushrooms","Vegetable","lb",4.0,1),
 //                      Grocery("Bagels","Bakery","pack",1.5,2),
 //                      Grocery("Olive oil","Pantry","Bottle",6.0,1),
-//                      Grocery("Ice cream","Frozen","Pack",3.0,2)
-//    )
+//                      Grocery("Ice cream","Frozen","Pack",3.0,2) )
 //
 //    val highestUnitPrice=groceries.maxBy { it.unitPrice} //{ it.unitPrice*5}
 //    println("highestUnitPrice:$highestUnitPrice")
@@ -37,12 +36,14 @@ data class Grocery(val name:String,
                    val quantity:Int
 )
 fun main(args:Array<String>){
+
     val groceries= listOf(Grocery("Tomatoes","Vegetable","lb",3.0,3),
             Grocery("Mushrooms","Vegetable","lb",4.0,1),
             Grocery("Bagels","Bakery","pack",1.5,2),
             Grocery("Olive oil","Pantry","Bottle",6.0,1),
-            Grocery("Ice cream","Frozen","Pack",3.0,2)
-    )
+            Grocery("Ice cream","Frozen","Pack",3.0,2))
+
+    //filter function
     val vegetables=groceries.filter { it.category == "Vegetable" }
    println("vegetables: $vegetables")
 
@@ -71,7 +72,29 @@ fun main(args:Array<String>){
     groceries.forEach ({ itemNames += " ${it.name}" })
     println("itemNames: $itemNames")
 
+    println("...................................................")
+    println("...................................................")
+    println("...................................................")
 
+    // fold function
+    groceries.groupBy { it.category }.forEach{ //grouping items by category
+        println("this category contains ${it.key}")
+        it.value.forEach{ println(" items are ${it.name}")}
+        println("...................................................")
+    }
+
+    val ints = listOf(2,2,3)
+    val sumOfInts=ints.fold(0){ runningSum,item -> runningSum + item}
+    println("sumOfInts: $sumOfInts")
+
+    val productOfInts=ints.fold(1) { runningProducts, item -> runningProducts * item }
+    println("productOfInts: $productOfInts")
+
+    val names=groceries.fold(" ") {string,item -> string + " ${item.name}"}
+    println("names: $names ")
+
+    val changeFrom50=groceries.fold(50.0){change,item -> change - item.unitPrice * item.quantity}
+  println("changeFrom50: $changeFrom50")
 
 }
 
