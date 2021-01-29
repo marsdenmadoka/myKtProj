@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4b6341d-a423-4879-938f-e22d749fb177" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinCodes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DrumMachine/.idea/DrumMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions2/src/Game.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ktloops/ktloops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/Beats.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._crash_cymbal.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._floor_toms.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._high_hat.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._kick_drum.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._snare.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._toms.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/crash_cymbal.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/floor_toms.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/high_hat.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/kick_drum.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/snare.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/toms.aiff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/src/TOH.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/out/production/Classes/ClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/out/production/Classes/META-INF/Classes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/out/production/Classes/META-INF/Classes.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/out/production/Classes/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/src/classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/src/classes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/collections.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrumMachine/src/drummachine.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HigherOrderFunctions/src/higherfunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HigherOrderFunctions/src/higherfunctions.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jGxOEyRH1oJ5YgKQBy4OnQUoTu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Maven.[]">
+    <configuration type="JetRunConfigurationType">
+      <module name="kotlinCodes" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.[]" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b6341d-a423-4879-938f-e22d749fb177" name="Default Changelist" comment="" />
+      <created>1603444195765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603444195765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="83" width="666" height="626" key="#" timestamp="1611906482305">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="378" y="83" width="666" height="626" key="#/67.27.1299.741@67.27.1299.741" timestamp="1611906482305" />
+    <state x="615" y="142" width="666" height="626" key="#Unnamed" timestamp="1611906297067">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="615" y="142" width="666" height="626" key="#Unnamed/67.27.1299.741@67.27.1299.741" timestamp="1611906297067" />
+    <state x="378" y="83" width="666" height="626" key="#classes" timestamp="1611906452179">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="378" y="83" width="666" height="626" key="#classes.kt" timestamp="1611906305129">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="378" y="83" width="666" height="626" key="#classes.kt/67.27.1299.741@67.27.1299.741" timestamp="1611906305129" />
+    <state x="378" y="83" width="666" height="626" key="#classes/67.27.1299.741@67.27.1299.741" timestamp="1611906452179" />
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611906463346">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1611906463346" />
+    <state x="67" y="27" width="1299" height="741" key="new project wizard" timestamp="1611950233479">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1299" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1611950233479" />
+  </component>
+</project>

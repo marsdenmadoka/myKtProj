@@ -43,7 +43,8 @@ fun main(args:Array<String>){
             Grocery("Olive oil","Pantry","Bottle",6.0,1),
             Grocery("Ice cream","Frozen","Pack",3.0,2))
 
-    //filter function
+    //filter function The filter function lets you search, or filter, a collection according to some criteria. You specify this criteria using a lambda,
+   // whose lambda body must return a Boolean. filter usually returns  a List . If the function is being used with a Map, however, it returns a Map instead.
     val vegetables=groceries.filter { it.category == "Vegetable" }
    println("vegetables: $vegetables")
 
@@ -76,7 +77,8 @@ fun main(args:Array<String>){
     println("...................................................")
     println("...................................................")
 
-    // fold function
+    // fold function Use groupBy to divide a collection into groups. It takes one parameter, a lambda, which defines how the function should group
+    //the items. The function returns a Map, which uses the lambda criteria for the keys, and a List for each value.
     groceries.groupBy { it.category }.forEach{ //grouping items by category
         println("this category contains ${it.key}")
         it.value.forEach{ println(" items are ${it.name}")}

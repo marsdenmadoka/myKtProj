@@ -1,25 +1,26 @@
 
-class Rectangle(var width:Int,var height:Int){
+//class Rectangle(var width:Int,var height:Int){
+//
+//    val isSquare:Boolean
+//        get()=(width == height) //getter that says whether a rectangle is square
+//
+//    val area:Int
+//    get()=(width*height) //getter that calculates the rectangle area
+//}
 
-    val isSquare:Boolean
-        get()=(width == height) //getter that says whether a rectangle is square
 
-    val area:Int
-    get()=(width*height) //getter that calculates the rectangle area
-}
 
-fun main(args:Array<String>){
-    val r= arrayOf(Rectangle(1,1),Rectangle(1,1),
-                    Rectangle(1,1),Rectangle(1,1))
+//    val r= arrayOf(Rectangle(1,1),Rectangle(1,1),
+//                    Rectangle(1,1),Rectangle(1,1))
+//
+//    for(x in 0..3) { //the r array has 4 items,so well loop from index 0 to index 3
+//        r[x].width=(x+1) * 3 //set the width and height of the rectangle
+//        r[x].height=x+5
+//        print("Recatngle $x has area of ${r[x].area}") //print rectangle area
+//        println(" it is ${if(r[x].isSquare) "" else "not"} a square") //print whether or not the rectangle is asquare
+//    }
 
-    for(x in 0..3) { //the r array has 4 items,so well loop from index 0 to index 3
-        r[x].width=(x+1) * 3 //set the width and height of the rectangle
-        r[x].height=x+5
-        print("Recatngle $x has area of ${r[x].area}") //print rectangle area
-        println(" it is ${if(r[x].isSquare) "" else "not"} a square") //print whether or not the rectangle is asquare
-    }
-
-}
+//}
 
 
 

@@ -1,6 +1,6 @@
 
-////mutablelists i.e ist that can be updated
-//list is ordered lke array ie u can get ites at index
+////mutablelists i.e list that can be updated
+//list is ordered lke array ie u can get items at index
 //fun main(args:Array<String>){
 //    val mShopingList= mutableListOf("Tea","Eggs","Milk")
 //    println("mShopping original: $mShopingList")
