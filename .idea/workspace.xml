@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4b6341d-a423-4879-938f-e22d749fb177" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinCodes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DrumMachine/.idea/DrumMachine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions2/src/Game.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ktloops/ktloops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/Beats.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._crash_cymbal.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._floor_toms.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._high_hat.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._kick_drum.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._snare.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/__MACOSX/audio/._toms.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/crash_cymbal.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/floor_toms.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/high_hat.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/kick_drum.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/snare.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machineproject/src/main/kotlin/audio/audio/toms.aiff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/TOH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/out/production/Classes/ClassesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/out/production/Classes/META-INF/Classes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/out/production/Classes/META-INF/Classes.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/out/production/Classes/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/src/classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/src/classes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/collections.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrumMachine/src/drummachine.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HigherOrderFunctions/src/higherfunctions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HigherOrderFunctions/src/higherfunctions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions2/src/Game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/functions2/src/Game.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
