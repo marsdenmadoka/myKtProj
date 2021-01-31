@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b4b6341d-a423-4879-938f-e22d749fb177" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions2/src/Game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/functions2/src/Game.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/out/production/Classes/META-INF/Classes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/out/production/Classes/META-INF/Classes.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/src/classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/src/classes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
