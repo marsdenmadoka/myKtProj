@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4b6341d-a423-4879-938f-e22d749fb177" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SuperAndSubClasses/src/iheritance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/out/production/Classes/META-INF/Classes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/out/production/Classes/META-INF/Classes.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/src/classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/src/classes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/absractpolymorphosim.iml" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/inheritAbstractpolymorphosim.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/AnimalKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/Canine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/Hippo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/META-INF/absractpolymorphosim.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/Roamable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/Vet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/absractpolymorphosim/Wolf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/src/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/src/Animal.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

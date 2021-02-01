@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/inheritAbstractpolymorphosim.iml" filepath="$PROJECT_DIR$/inheritAbstractpolymorphosim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperAndSubClasses.iml" filepath="$PROJECT_DIR$/SuperAndSubClasses.iml" />
     </modules>
   </component>
 </project>
