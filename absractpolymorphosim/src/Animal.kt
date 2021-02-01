@@ -6,15 +6,15 @@ interface Roamable{
 }
 //we declare a class to be a supper class by calling it open
 //To use a class as a superclass, it must be declared as open. Everything you want to override must also be open.
-abstract class Animal:Roamable{ //when we call it abstract we don't need to declared it open
+abstract class Animal:Roamable{ //when we call it abstract we don't need to declared it open abstract class can’t be instantiated .
     abstract val image:String
     abstract val food:String
     abstract val habitat:String
     var hunger=10
 
 
-    abstract fun makeNoise()
-    abstract fun eat()
+    abstract fun makeNoise()//abstract functions have no function bodies.
+    abstract fun eat()//If you put even one abstract property or function in a class, you have to mark the class as abstract or your code won’t compile.
 
     override fun roam(){ //fetching this from our interface
         println("The animal is roaming")
@@ -25,7 +25,8 @@ abstract class Animal:Roamable{ //when we call it abstract we don't need to decl
 }
 
 
-class Hippo : Animal(){ //we must implement all abstract methods and properties in from our Supper class
+class Hippo : Animal(){ //The first concrete class in the inheritance tree below the abstract superclass
+                      // must implement all abstract methods and properties in from our Supper class
     override val image="hippo"
     override val food="fisss"
     override val habitat="water"

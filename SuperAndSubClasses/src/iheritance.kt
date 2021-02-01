@@ -78,21 +78,7 @@ fun main(args:Array<String>){
     vet.giveShot(wolf) //polymorphism.
     vet.giveShot(hippo) //polymorphism.
 
-
-//                The Animal is roaming
-//                The Hippo is eating grass
-//                 The Canine is roaming
-//                The wolf is eating meat
-//                Hooooww!!
-//                 Grunt Grunt
-
-
-
-
-
-
-
-
     }
+//If the superclass has a primary constructor, then you must call it in  the subclass header.
 
 
