@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4b6341d-a423-4879-938f-e22d749fb177" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/nulls and exceptions/nulls and exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nulls and exceptions/src/nulls.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/AnimalKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/AnimalKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Canine.class" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Canine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Hippo.class" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Hippo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Vet.class" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Vet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Wolf.class" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/out/production/inheritAbstractpolymorphosim/Wolf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/absractpolymorphosim/src/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/absractpolymorphosim/src/Animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data classes/out/production/data classes/DataclassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/data classes/out/production/data classes/DataclassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data classes/out/production/data classes/META-INF/data classes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/data classes/out/production/data classes/META-INF/data classes.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data classes/out/production/data classes/Mushroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data classes/out/production/data classes/Recipe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data classes/src/dataclass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/data classes/src/dataclass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/out/production/Collections/CollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/out/production/Collections/CollectionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/out/production/Collections/META-INF/Collections.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/out/production/Collections/META-INF/Collections.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/out/production/Collections/Recipe.class" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/out/production/Collections/Recipe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/src/collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/src/collections.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/CatRetailer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/CatRetailer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/Contest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/Contest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/DogRetailer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/DogRetailer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/FishRetailer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/FishRetailer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/GenericsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/GenericsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/META-INF/Generics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/META-INF/Generics.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/out/production/Generics/Retailer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/out/production/Generics/Retailer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
