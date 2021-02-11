@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HigherOrderFunctions.iml" filepath="$PROJECT_DIR$/HigherOrderFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HighOrderFuncsAndLambda/HigherOrderFunctions.iml" filepath="$PROJECT_DIR$/../HighOrderFuncsAndLambda/HigherOrderFunctions.iml" />
     </modules>
   </component>
 </project>
